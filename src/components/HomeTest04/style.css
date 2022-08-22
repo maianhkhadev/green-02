@@ -1,0 +1,12 @@
+.header {
+  margin-bottom: 16px;
+}
+
+.header h4 {
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+.header button {
+  width: 100%;
+}

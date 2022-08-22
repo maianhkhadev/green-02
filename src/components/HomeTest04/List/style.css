@@ -1,0 +1,14 @@
+.user {
+  border: 1px solid #eeeeee;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 12px 0;
+}
+
+.user-main {
+  margin-bottom: 8px
+}
+
+.user-footer button {
+  margin-right: 8px
+}
