@@ -5,7 +5,7 @@ import ModalView from './ModalView'
 import './style.css'
 import { getUsers, createUser, editUser, deleteUser } from '../../apis/users'
 
-const DEFAULT_FORM_DATA = { name: '', email: '' }
+const DEFAULT_FORM_DATA = { name: '', email: '', phone: '' }
 
 const validate = (list, formData) => {
   if (formData.name === '' || formData.email === '') {
